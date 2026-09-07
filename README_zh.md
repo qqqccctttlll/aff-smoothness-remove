@@ -1,6 +1,6 @@
 <div align="center">
 
-[English](https://github.com/https://github.com/qqqccctttlll/aff-smoothness-remove/README.md)
+[English](https://github.com/qqqccctttlll/aff-smoothness-remove/blob/main/README.md)
 
 </div>
 
