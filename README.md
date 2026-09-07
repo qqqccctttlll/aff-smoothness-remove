@@ -1,6 +1,6 @@
 <div align="center">
 
-[简体中文](https://github.com/https://github.com/qqqccctttlll/aff-smoothness-remove/README_zh.md)
+[简体中文](https://github.com/qqqccctttlll/aff-smoothness-remove/blob/main/README_zh.md)
 
 </div>
 
